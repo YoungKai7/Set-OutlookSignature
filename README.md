@@ -69,7 +69,7 @@ Run `Set-OutlookSignature.exe -help -detailed` to learn even more.
 
 ### Customizations
 1. Download the source code.
-2. Make necessary changes to the script.
+2. Make necessary changes.
 3. Compile the script using [PS2EXE-GUI](https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5)
 
 ## Notes
