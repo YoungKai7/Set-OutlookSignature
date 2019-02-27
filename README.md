@@ -1,6 +1,12 @@
 # Set-OutlookSignature
 Obtains user's profile from Active Directory or Excel, and configures user's Outlook signature using a Word document template.
 
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/YoungKai7/Set-OutlookSignature/assets/demo-gif.gif" alt="Set-OutlookSignature Demo">
+  </a>
+</p>
+
 ### Features
 - [x] Obtain user profile from AD or Excel.
 - [x] Use MS Word document to create signature templates.
