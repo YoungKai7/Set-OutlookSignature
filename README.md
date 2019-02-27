@@ -60,7 +60,7 @@ Obtains user's profile from Active Directory or Excel, and configures user's Out
     
     `[Automated Deployment]` Configure GPO and/or user logon script to run `Set-OutlookSignature.exe -silent`
     
-    `[Manual Deployment]` Instruct users to run `Set-OutlookSignature.exe`
+    `[Manual Deployment]` Instruct users to run `Set-OutlookSignature.exe`.  The Excel file containing user profiles should be updated before user runs `Set-OutlookSignature`. Either designate someone to maintain the Excel file, or have user update it themselves.
     
 ### Advanced Usage
 Run `Set-OutlookSignature.exe -help` to learn more.
