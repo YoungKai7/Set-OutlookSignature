@@ -2,6 +2,11 @@
 Obtains user's profile from Active Directory or Excel, and configures user's Outlook signature using a Word document template.
 
 <p align="center">
+  <a href="https://raw.githubusercontent.com/YoungKai7/Set-OutlookSignature/assets/demo-template.png">
+    <img src="https://raw.githubusercontent.com/YoungKai7/Set-OutlookSignature/assets/demo-template.png" alt="Set-OutlookSignature Demo">
+  </a>
+</p>
+<p align="center">
   <a href="https://raw.githubusercontent.com/YoungKai7/Set-OutlookSignature/assets/demo-gif.gif">
     <img src="https://raw.githubusercontent.com/YoungKai7/Set-OutlookSignature/assets/demo-gif.gif" alt="Set-OutlookSignature Demo">
   </a>
