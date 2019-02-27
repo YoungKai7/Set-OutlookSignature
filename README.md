@@ -12,7 +12,7 @@ Obtains user's profile from Active Directory or Excel, and configures user's Out
   </a>
 </p>
 
-### Features
+## Features
 - [x] Obtain user profile from AD or Excel.
 - [x] Use MS Word document to create signature templates.
 - [x] Customizable variables (e.g. `[[FirstLastName]]`, `[[myVariable]]`) can be used as text and part of hyperlink on the Word signature template(s).
@@ -22,8 +22,6 @@ Obtains user's profile from Active Directory or Excel, and configures user's Out
 - [x] Shorten execution time to skip signature update if signature template has not been changed, or use the `-forceupdate` switch to ensure signature standard.
 - [x] Automatically selects signature for new messages/replies/forwards.
 
-
-### User Friendly
 | **END-USERS** |
 | :--- |
 | Automated process makes it transparent to the end-users. |
