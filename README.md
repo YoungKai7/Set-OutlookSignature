@@ -73,7 +73,7 @@ Run `Set-OutlookSignature.exe -help -detailed` to learn even more.
 3. Compile the script using [PS2EXE-GUI](https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5)
 
 ## Notes
-- The .config file will be automatically generated with default values if no existing .config is found.
+- The .config file will automatically generate with default values if no existing .config is found.
 - The .config file must match the name of the executable (yes, you can rename `Set-OutlookSignature.exe`).
 - You can combine `-Silent` and `-ForceUpdate` switches for automated enforced signature standard.  E.g. `Set-OutlookSignature.exe -silent -forceupdate`
 
