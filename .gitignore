@@ -1,0 +1,10 @@
+/!-Archived/
+/.vscode/
+/Release/
+/signature_data/
+/Test/
+
+*~
+~*
+*.code-workspace
+/*.ico
