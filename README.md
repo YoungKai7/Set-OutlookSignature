@@ -1,5 +1,5 @@
 # Set-OutlookSignature
-Obtains user's profile from Active Directory or Excel, and configures user's Outlook signature using a Word document template.
+Obtains user's profile from **Active Directory** or **Excel**, and configures user's **Outlook signature** using a **Word document template**.
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/YoungKai7/Set-OutlookSignature/assets/demo-template.png">
@@ -20,7 +20,7 @@ Obtains user's profile from Active Directory or Excel, and configures user's Out
 - [x] Silent execution option for automated deployment.
 - [x] Executable for manual deployment, so users don't have to work with script execution commands.
 - [x] Shorten execution time to skip signature update if signature template has not been changed, or use the `-forceupdate` switch to ensure signature standard.
-- [x] Automatically selects signature for new messages/replies/forwards.
+- [x] Automatically selects signature for new messages/replies/forwards settings.
 
 | **END-USERS** |
 | :--- |
