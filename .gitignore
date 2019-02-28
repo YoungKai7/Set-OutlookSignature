@@ -1,10 +1,19 @@
-/!-Archived/
-/.vscode/
-/Release/
-/signature_data/
-/Test/
+# Ignore Visual Studio Code files
+.vscode/
+*.code-workspace
 
+# Numerous always-ignore extensions
+*.orig
+*.zip
 *~
 ~*
-*.code-workspace
 /*.ico
+
+# OS or Editor folders
+Thumbs.db
+
+# Folders to ignore
+/Test/
+/Release/
+/!-Archived/
+/signature_data/
