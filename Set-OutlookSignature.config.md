@@ -1,10 +1,11 @@
 ```xml
- <config>
+<config>
     <main>
         <UserName>$env:username</UserName>
-        <SigSource>.\signature_data</SigSource><!-- path to folder containing the signature template(s) and Excel user profiles -->
-        <UserSource>Excel</UserSource><!-- "Excel" or "AD" -->
-        <UserSourceFile>$SigSource\UserDirectory.xlsx</UserSourceFile><!-- only for Excel user source -->
+        <SigSource comment="Path to folder containing the signature template(s) and Excel user profiles"
+            >.\signature_data</SigSource>
+        <UserSource comment="'Excel' or 'AD'">Excel</UserSource>
+        <UserSourceFile comment="Only for Excel UserSource">$SigSource\UserDirectory.xlsx</UserSourceFile>
     </main>
     <profile>
         <!--
