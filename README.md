@@ -38,6 +38,7 @@ Obtains user's profile from **Active Directory** or **Excel**, and configures us
 | All options can be easily configured through a .config file. |
 | Easily add new variables to use on the MS Word signature template(s). |
 | Detail commented script for easy customizations. |
+| Easy configuration through .config file ([example](https://github.com/YoungKai7/Set-OutlookSignature/blob/assets/Set-OutlookSignature.config)) |
 
 ## Instructions
 `[Automated Deployment]` is meant to run `Set-OutlookSignature` automatically, so the process to set Outlook signature is transparent to the users.
