@@ -1,5 +1,5 @@
-
 # Ignore Visual Studio Code files
+/!-Archived/
 /.vscode/
 /*.code-workspace
 
