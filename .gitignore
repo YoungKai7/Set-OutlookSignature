@@ -1,23 +1,15 @@
 # Ignore Visual Studio Code files
-/!-Archived/
-/.vscode/
-/*.code-workspace
+.vscode/
+*.code-workspace
 
 # Numerous always-ignore extensions
-/*.ico
-*.diff
-*.err
-*.log
 *.orig
 *.zip
 *~
 ~*
+/*.ico
 
 # OS or Editor folders
-._*
-.cache
-.DS_Store
-.idea
 Thumbs.db
 
 # Folders to ignore
