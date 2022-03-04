@@ -76,7 +76,7 @@ Run `Set-OutlookSignature.exe -help -detailed` to learn even more.
 - The .config file must match the name of the executable (yes, you can rename `Set-OutlookSignature.exe`).
 - You can combine `-Silent` and `-ForceUpdate` switches for automated enforced signature standard.  E.g. `Set-OutlookSignature.exe -silent -forceupdate`
 
-## Components
+## Credits
 This is a Powershell script (.ps1) written based on [`Set-OutlookSingature.ps1 v1.2`](https://gallery.technet.microsoft.com/office/Outlook-signature-based-on-8178d376) authored by Jan Egil Ring, Darren
 Kattan, and Michael West.
 
