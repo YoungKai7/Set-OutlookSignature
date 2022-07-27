@@ -53,7 +53,7 @@ Obtains user's profile from **Active Directory** or **Excel**, and configures us
     
     `[Manual Deployment]` Save to a network shared folder.
     
-3. Run `Set-OutlookSignature.exe` once and following on-screen instructions. This should guide you through editing the .config file.
+3. Run `Set-OutlookSignature.exe` once and follow on-screen instructions. This should guide you through editing the .config file.
 4. Edit the signature template (`Unified-Signature.docx`)
 5. To run:
     
