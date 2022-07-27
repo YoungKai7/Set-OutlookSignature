@@ -25,7 +25,7 @@ Obtains user's profile from **Active Directory** or **Excel**, and configures us
 | **END-USERS** |
 | :--- |
 | Automated process makes it transparent to the end-users. |
-| Alternatively, if process automation through GPO is not an option, user can simply double-click on an executable to set their Outlook signature. |
+| Alternatively, if process automation through GPO is not an option, user can simply double-click on the executable to set their Outlook signature. |
 
 | **MARKETING** |
 | :--- |
